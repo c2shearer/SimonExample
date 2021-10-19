@@ -8,6 +8,8 @@ namespace SimonExample
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("C#");
+            char x = 'x';
+            Console.WriteLine(x);
         }
     }
 }
